@@ -17,15 +17,15 @@
 7) Run expo start -c command.\
 
 Install below packages:
-#npm install @react-navigation/native
-#expo install react-native-screens react-native-safe-area-context
+# npm install @react-navigation/native
+# expo install react-native-screens react-native-safe-area-context
   
-#npm install native-base
-#expo install react-native-svg
-#expo install react-native-safe-area-context
+# npm install native-base
+# expo install react-native-svg
+# expo install react-native-safe-area-context
 
-#npm install @expo/vector-icons for icons 
-#npm install qs for query string 
-#npm install @react-navigation/native-stack
-#npm install axios
+# npm install @expo/vector-icons for icons 
+# npm install qs for query string 
+# npm install @react-navigation/native-stack
+# npm install axios
 		
